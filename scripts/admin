@@ -1,5 +1,4 @@
 #!/bin/bash
 
-python3 ../drivers/bot_mcgraw.py username password "https://link_to_homework_on_canvas"
-
+python3 ../drivers/bot_mcgraw.py "adfs\manzi01" "@Yoursenpai12" "https://franklin.instructure.com/courses/18432/external_tools/54"
 echo "Initializing..."
